@@ -69,10 +69,8 @@
                                                 <li><a href="#">Pages</a>
                                                     <ul class="dropdown">
                                                         <li><a href="../">- Home</a></li>
-                                                        <li><a href="">- About</a></li>
-                                                        <li><a href="">- Gallery</a></li>
-                                                        <li><a href="blog">- Blog</a></li>
-                                                        <li><a href="<?= base_url('assets/') ?>./single-blog.html">- Blog Details</a></li>
+                                                        <li><a href="about">- About</a></li>
+                                                        <li><a href="" class="active">- Gallery</a></li>
                                                         <li><a href="contact">- Contact</a></li>
                                                         <li><a href="#">- Dropdown</a>
                                                             <ul class="dropdown">

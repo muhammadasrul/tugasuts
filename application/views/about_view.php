@@ -71,8 +71,6 @@
                                                         <li><a href="../">- Home</a></li>
                                                         <li class="active"><a href="">- About</a></li>
                                                         <li><a href="gallery">- Gallery</a></li>
-                                                        <li><a href="blog">- Blog</a></li>
-                                                        <li><a href="<?= base_url('assets/') ?>./single-blog.html">- Blog Details</a></li>
                                                         <li><a href="contact">- Contact</a></li>
                                                         <li><a href="#">- Dropdown</a>
                                                             <ul class="dropdown">
